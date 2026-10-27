@@ -10,11 +10,11 @@
 
 ![01 — Sobre mim](assets/01.svg)
 
-Sou estudante de **Engenharia de Software na UNICID**, com formação técnica em Informática e experiência profissional em **tecnologia, operações e gestão de indicadores**, especialmente no segmento de Digital Signage (DOOH).
+Sou estudante de **Engenharia de Software na UNICID**, com formação técnica em Dev Full Stack e experiência profissional em **tecnologia, operações e gestão de indicadores**, especialmente no segmento de Digital Signage (DOOH).
 
 Tenho interesse em **Análise de Dados, desenvolvimento back-end e sistemas embarcados**. Gosto de desenvolver projetos que aproximam programação, dados e soluções para problemas reais.
 
-> **Objetivo:** evoluir continuamente como profissional de tecnologia, construindo soluções com clareza, responsabilidade e foco em resultados.
+> **Objetivo:** evoluir continuamente como profissional de tecnologia, construindo soluções com clareza, responsabilidade e ética.
 
 ![02 — Atividade no GitHub](assets/02.svg)
 
