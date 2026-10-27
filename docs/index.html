@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="theme-color" content="#0B1118">
+  <meta name="description" content="Asteroids: minijogo arcade do portfólio de Diego Troiani.">
+  <title>Asteroids | Diego Troiani</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="shell">
+    <header class="topline">
+      <a class="back" href="https://github.com/ditroiani">← GitHub / ditroiani</a>
+      <div class="status"><span class="status-dot"></span> ARCADE MODE</div>
+    </header>
+    <main>
+      <div class="headline"><div><div class="eyebrow">07 / INTERACTIVE EXPERIENCE</div><h1>ASTEROIDS<span class="accent">.</span></h1><p>Um clássico arcade reinterpretado em azul e amarelo neon suave.</p></div><span class="game-icon" aria-hidden="true">△</span></div>
+      <section class="game-card" aria-label="Jogo Asteroids">
+        <div class="hud"><div><span class="hud-label">SCORE</span><strong id="score">000000</strong></div><div><span class="hud-label">BEST</span><strong id="best">000000</strong></div><div><span class="hud-label">WAVE</span><strong id="wave">01</strong></div><div><span class="hud-label">SHIPS</span><strong id="lives">♥ ♥ ♥</strong></div></div>
+        <div class="canvas-wrap"><canvas id="game" width="1000" height="560" aria-label="Área de jogo com nave, asteroides e projéteis"></canvas><div id="overlay" class="overlay"><div class="overlay-card"><div class="eyebrow" id="overlay-kicker">READY PLAYER ONE</div><h2 id="overlay-title">Preparado para decolar?</h2><p id="overlay-desc">Desvie dos asteroides, atire e sobreviva o máximo possível.</p><button id="start" type="button">▶ INICIAR JOGO</button></div></div></div>
+        <div class="toolbar"><div class="controls-note"><span>← →</span> GIRAR <span>↑ / W</span> ACELERAR <span>ESPAÇO</span> ATIRAR <span>P</span> PAUSAR</div><button id="pause" type="button" aria-label="Pausar ou retomar jogo" disabled>⏸ PAUSAR</button></div>
+      </section>
+      <div class="mobile-controls" aria-label="Controles por toque"><button data-key="ArrowLeft" aria-label="Girar para a esquerda">↶</button><button data-key="ArrowUp" aria-label="Acelerar">↑</button><button data-key="ArrowRight" aria-label="Girar para a direita">↷</button><button data-key="Space" class="fire" aria-label="Atirar">● FIRE</button></div>
+      <footer><span>CYBER MINIMAL // DIEGO TROIANI</span><span>Feito com HTML, CSS e JavaScript • Sem dependências</span></footer>
+    </main>
+  </div>
+  <script src="game.js" defer></script>
+</body>
+</html>
