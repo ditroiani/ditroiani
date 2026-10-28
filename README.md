@@ -3,8 +3,6 @@
 ![Capa — Diego Troiani](assets/header.svg)
 
 [![GitHub](https://img.shields.io/badge/GitHub-ditroiani-14212D?style=for-the-badge&logo=github&logoColor=65BFEA)](https://github.com/ditroiani)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-14212D?style=for-the-badge&logo=linkedin&logoColor=65BFEA)](https://www.linkedin.com/in/dtroiani/)
-[![Asteroids](https://img.shields.io/badge/Arcade-Play%20Asteroids-E6C55A?style=for-the-badge&logo=spaceship&logoColor=0B1118)](https://ditroiani.github.io/ditroiani/)
 
 </div>
 
@@ -55,7 +53,7 @@ Tenho interesse em **Análise de Dados, desenvolvimento back-end e sistemas emba
       <h3>🔹 Garage Hair</h3>
       <p><strong>Projeto acadêmico web e de dados</strong></p>
       <p>Site responsivo e acessível, com desenvolvimento front-end e modelagem de um sistema de gestão.</p>
-      <p><code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>Modelagem de Dados</code></p>
+      <p><code>HTML</code> <code>CSS</code> <code>JavaScript</code></p>
       <a href="https://garagehairunicid.vercel.app/">Ver site</a>
     </td>
   </tr>
