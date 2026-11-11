@@ -18,8 +18,8 @@ Tenho interesse em **Análise de Dados, desenvolvimento back-end e sistemas emba
 
 <div align="center">
 
-<img height="175" alt="Estatísticas públicas do GitHub de ditroiani" src="https://github-readme-stats.vercel.app/api?username=ditroiani&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0B1118&amp;title_color=65BFEA&amp;text_color=EDF2F7&amp;icon_color=E6C55A" />
-<img height="175" alt="Linguagens mais presentes nos repositórios públicos" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ditroiani&amp;layout=compact&amp;hide_border=true&amp;bg_color=0B1118&amp;title_color=65BFEA&amp;text_color=EDF2F7" />
+<img height="175" alt="Estatísticas públicas do GitHub de ditroiani" src="https://github-stats-extended.vercel.app/api?username=ditroiani&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0B1118&amp;title_color=65BFEA&amp;text_color=EDF2F7&amp;icon_color=E6C55A" />
+<img height="175" alt="Linguagens mais presentes nos repositórios públicos" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ditroiani&amp;layout=compact&amp;hide_border=true&amp;bg_color=0B1118&amp;title_color=65BFEA&amp;text_color=EDF2F7" />
 
 </div>
 
